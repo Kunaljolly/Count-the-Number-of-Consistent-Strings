@@ -4,7 +4,6 @@ You are given a string allowed consisting of distinct characters and an array of
 
 Return the number of consistent strings in the array words.
 
- 
 
 Example 1:
 
